@@ -13,9 +13,9 @@
 
 ## About This Taxonomy
 
-AI is being deployed in veterinary clinical settings — for diagnostics, medical scribing, and drug prescriptions — without any standardised safety evaluation framework. This taxonomy catalogues 25 high-risk clinical edge cases designed to surface the specific ways these systems fail.
+AI is being deployed in veterinary clinical settings for diagnostics, medical scribing, and drug prescriptions without any standardised safety evaluation framework. This taxonomy catalogues 25 high-risk clinical edge cases designed to surface the specific ways these systems fail.
 
-This work is grounded in a **One Health** perspective: the health of animals, people, and ecosystems are inseparable. AI failures in veterinary medicine do not stay contained to animal welfare — misdiagnosed zoonotic diseases, missed rabies exposures, and incorrect triage of notifiable conditions directly endanger human communities, particularly in Africa where zoonotic burden is highest and AI safety infrastructure is thinnest.
+This work is grounded in a **One Health** perspective: the health of animals, people, and ecosystems are inseparable. AI failures in veterinary medicine do not stay contained to animal welfare misdiagnosed zoonotic diseases, missed rabies exposures, and incorrect triage of notifiable conditions directly endanger human communities, particularly in Africa where zoonotic burden is highest and AI safety infrastructure is thinnest.
 
 Each case is structured to expose a specific failure mode:
 - Hallucinated or confidently wrong diagnoses
