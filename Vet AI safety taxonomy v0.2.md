@@ -1,7 +1,7 @@
 # Veterinary AI Safety — High-Risk Clinical Edge Case Taxonomy (v0.2)
 
 **Project:** The Non-Human Alignment Project  
-**Lead Researcher:** Emmanuel Shiawoya, BVM, MSc Public Health & Health Promotion (Swansea University)  
+**Lead Researcher:** Emmanuel Shiawoya, DVM, MSc Public Health & Health Promotion (Swansea University)  
 **Organisation:** Happy Animals Happy People Initiative (HAHPI) | ha-hpi.org  
 **Specialisations:** One Health, Zoonotic Disease Prevention, Rabies Control, Systematic Review Methodology  
 **Version:** 0.2 (Preliminary — 25 cases, peer review pending)  
